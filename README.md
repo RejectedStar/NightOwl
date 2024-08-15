@@ -363,5 +363,3 @@ nightowl compile example.no
 Expect the compilation process to be an exercise in patience and resilience. The final output might be functional or might leave you questioning your choices.
 
 ---
-
-Hope this captures the essence of NightOwl while keeping the tone fun and absurd!
